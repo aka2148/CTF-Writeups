@@ -4,12 +4,13 @@
 
 The challenge uses a Rabin encryption scheme with a modulus made of four primes:
 
-- \( N = p \cdot q \cdot r \cdot s \), each 256 bits and \( \equiv 3 \pmod{4} \)
-- Encryption:  
-  \[
-  \text{ENC}(m) = m^2 \bmod N
-  \]
-- A broken decryption oracle `DEC` that returns the **sum of a random subset** of valid square roots.
+- N = p · q · r · s, where each prime is 256 bits and congruent to 3 mod 4
+- Encryption:
+  
+  ENC(m) = m² mod N
+
+- A broken decryption oracle `DEC` that returns the **sum of a random subset** of valid square roots
+
 
 ## Script
 
