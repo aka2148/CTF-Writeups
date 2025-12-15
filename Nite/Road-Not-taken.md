@@ -24,4 +24,4 @@ Found out about this later but this existed and would've made my life a lot easi
 <img width="1116" height="697" alt="image" src="https://github.com/user-attachments/assets/53be8f48-5a4e-4901-98da-6466d2c4a482" />
 
 
-### Flag:
+### Flag: **nite{b4nanas_&nd_se4_sh4nt1es_s0und_n1c3}**
