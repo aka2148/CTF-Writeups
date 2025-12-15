@@ -12,8 +12,8 @@ The challenge uses a Rabin encryption scheme with a modulus made of four primes:
 - A broken decryption oracle `DEC` that returns the **sum of a random subset** of valid square roots
 
 The main issue with the encryption is that DEC was returning algebrais combination of secret values generated.  
-Now :
--ENC allows exact recovery of N using algebra
+Now :  
+-ENC allows exact recovery of N using algebra  
 -DEC leaks partial factors of N
 
 
