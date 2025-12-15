@@ -13,8 +13,8 @@ The challenge uses a Rabin encryption scheme with a modulus made of four primes:
 
 The main issue with the encryption is that DEC was returning algebrais combination of secret values generated.  
 Now :  
--ENC allows exact recovery of N using algebra  
--DEC leaks partial factors of N
+- ENC allows exact recovery of N using algebra  
+- DEC leaks partial factors of N
 
 
 ## Script
