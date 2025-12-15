@@ -65,4 +65,4 @@ print(sorted(best_group, reverse=True))
 Final sequence:
 189, 177, 134, 108, 37, 29
 
-flag:
+flag: **nite{Diehard_1891771341083729}**
