@@ -4,7 +4,8 @@
 
 ### Solution
 Started off by reverse image searching and giving gpt some images which gave me Ghana.
-Confirmed this through the black tape on the camera mount of the car.
+Confirmed this through the black tape on the camera mount of the car.  
+
 <img width="519" height="779" alt="image" src="https://github.com/user-attachments/assets/0c37f5f0-da01-4fa0-ac3a-ab6b590e3b0d" />
 
 
